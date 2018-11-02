@@ -1,0 +1,20 @@
+Донатик за ботов пожалуйста - https://qiwi.me/supercool
+
+
+
+Установить
+python -m pip install pyautogui
+python -m pip install psutil
+python -m pip install Pillow
+
+Удалить
+python -m pip uninstall pyautogui
+python -m pip uninstall psutil
+python -m pip uninstall Pillow
+
+Запуск:
+Переименовать файлы config_1366x768 в config так же и с 1920x1080
+
+cd Путь к папке с ботом
+python superbot.py
+
